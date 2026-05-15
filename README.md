@@ -30,7 +30,7 @@ This dashboard explores the global film industry through data — uncovering pat
 - `Global__cinemas.pbix` — Power BI report file
 - `MoviesIMDB_dataset.csv` — Dataset used
 
-
+## 🚀 How to View
 
 1. Download `Global__cinemas.pbix`
 2. Open with Power BI Desktop (free download from Microsoft)
