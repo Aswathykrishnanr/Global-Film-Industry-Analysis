@@ -23,7 +23,7 @@ This dashboard explores the global film industry through data — uncovering pat
 ## 📸 Dashboard Preview
 
 <!-- Add your screenshot here after uploading -->
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](Dashboard)
 
 ## 📁 Files
 
