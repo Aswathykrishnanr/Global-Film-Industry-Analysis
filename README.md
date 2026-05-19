@@ -20,7 +20,7 @@ This dashboard explores the global film industry through data — uncovering pat
 - **Dataset** — IMDB Movies Dataset (CSV)
 - **Data Cleaning** — Power Query inside Power BI
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 <!-- Add your screenshot here after uploading -->
 ![Dashboard Preview](Dashboard)
